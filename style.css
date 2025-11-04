@@ -22,7 +22,8 @@
     .badge-dark {
         background-color: #3D3D3D;
         color: #d6d6d6d3;
-        margin: 0.25rem;
+        margin-right: 0.25rem;
+        margin-bottom: 0.25rem;
         padding: 0.35rem;
         border-color: #242424;
         border-style: solid;
